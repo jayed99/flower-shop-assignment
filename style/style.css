@@ -1,0 +1,270 @@
+/* header style */
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+
+}
+
+.header-des {
+    /* margin-right: 50%;
+   width: 500px;
+   margin-left:240px ;
+   margin-top: 190px;
+   margin-bottom: 140px; */
+    width: 500px;
+    margin-left: 240px;
+
+}
+
+.heder-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.title-info {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.button-primary {
+    padding: 20px 43px;
+    background-color: #e55473;
+    color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.header-photo {
+    width: 400px;
+    margin-right: 240px;
+    margin-top: 50px;
+
+
+}
+
+/* main style  added */
+.main-title {
+    text-align: center;
+
+}
+
+.main-title-info {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 180px;
+}
+
+.title-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+
+}
+
+.image-1 {
+    display: block;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 350px;
+    height: 320px;
+
+}
+
+.img-1 {
+    padding: 25px;
+    height: 280px;
+    width: 300px;
+}
+
+.img1-des {
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 50px;
+
+
+}
+
+.image-2 {
+    display: block;
+    display: block;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 350px;
+    height: 320px;
+}
+
+.img-2 {
+    padding: 25px;
+    height: 280px;
+    width: 300px;
+}
+
+.image-3 {
+    display: block;
+    display: block;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 350px;
+    height: 320px;
+}
+
+.img-3 {
+    padding: 25px;
+    height: 280px;
+    width: 300px;
+}
+
+.flowers-container {
+    display: flex;
+    margin-left: 200px;
+    justify-content: space-between;
+}
+
+/* hot section style */
+.hot-section {
+    margin-top: 150px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+
+}
+
+.hot-section-container {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+
+.hot-section-pic {
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+}
+
+.hot-section-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+
+}
+
+span {
+    color: #E55473;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.hot-section-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.photo-container {
+    display: flex;
+    gap: 25px;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.photo-1,
+.photo-2,
+.photo-3,
+.photo-4 {
+    width: 242px;
+    height: 296px;
+
+}
+
+.pre-footer {
+    background-image: url(/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+}
+
+.pre-footer {
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.pre-footer-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.pre-footer-title-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+input {
+    width: 500px;
+    height: 30px;
+}
+
+.footer-task {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.footer-title {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+span {
+    color: #fff;
+}
+
+.footer-title-des {
+    color: #FFFFFFE5;
+}
+
+.warning {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
